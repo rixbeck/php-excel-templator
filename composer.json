@@ -1,5 +1,5 @@
 {
-    "name": "alhimik1986/php-excel-templator",
+    "name": "rixbeck/php-excel-templator",
     "description": "PHP Spreadsheet extension for generating excel files from template",
     "keywords": ["php", "excel", "template", "templator", "templater"],
     "license": "MIT",
